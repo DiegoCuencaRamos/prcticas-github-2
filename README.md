@@ -20,3 +20,13 @@ Some imformation
 ![Colorado](https://www.greenbiz.com/sites/default/files/2021-04/Denver%20Skyline.jpg)
 
 [Abrir imagen](https://www.greenbiz.com/sites/default/files/2021-04/Denver%20Skyline.jpg)
+
+> Cita de prueba
+> - Hola que ase
+
+Texto con salto de
+
+linea duro
+
+Texto con salto de  
+linea blando
